@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tasker/static/css/main.c6bf3755.css",
+    "main.js": "/tasker/static/js/main.8508e4fb.js",
+    "static/media/background.jpg": "/tasker/static/media/background.288e980f3f5a62d5c400.jpg",
+    "index.html": "/tasker/index.html",
+    "main.c6bf3755.css.map": "/tasker/static/css/main.c6bf3755.css.map",
+    "main.8508e4fb.js.map": "/tasker/static/js/main.8508e4fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bf3755.css",
+    "static/js/main.8508e4fb.js"
+  ]
+}
